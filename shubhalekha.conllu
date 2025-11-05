@@ -1,0 +1,15 @@
+# sent_id = p2__1
+# text = పాత ఊళ్ళో ఉన్న ఆఫీసుకెళ్ళే సన్నాహంలో శాస్త్రి రిక్షావానికోసం గుమ్మంలో నిలబడి ఉన్నాడు .
+# text_en = Shastri was standing at the doorway waiting for a rickshaw, preparing to go to his office in the old town.
+1	పాత	పాత	ADJ	_	_	_	_	_	Gloss=old
+2	ఊళ్ళో	ఊరు	ADP	_	Case=Loc	_	_	_	Gloss=city
+3	ఉన్న	ఉన్న	ADJ	_	Tense=Past|VerbForm=Part	_	_	_	Gloss=was
+4	ఆఫీసుకెళ్ళే	ఆఫీసుకెళ్ళే	VERB	_	Case=Dat|VerbForm=Conv	_	_	_	Gloss=office.DAT
+5	సన్నాహంలో	సన్నాహం	ADP	_	Case=Loc	_	_	_	Gloss=preparation
+6	శాస్త్రి	శాస్త్రి	PROPN	_	_	_	_	_	Gloss=Shashtri
+7	రిక్షావానికోసం	రిక్షావానికోసం	ADP	_	Case=Abl|Gender=Masc	_	_	_	Gloss=Rickshaw Driver
+8	గుమ్మంలో	గుమ్మం	ADP	_	Case=Loc	_	_	_	Gloss=Doorway
+9	నిలబడి	నిలబడు	VERB	_	VerbForm=Conv	_	_	_	Gloss=stand
+10	ఉన్నాడు	ఉండు	VERB	_	Gender=Masc|Mood=Ind|Tense=Pres	0	root	_	Gloss=is
+11	.	_	PUNCT	_	_	_	_	_	_
+
