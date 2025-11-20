@@ -318,7 +318,7 @@
 # text_en = It would have been better if we had agreed to that boy who asked us last year for her marriage!
 1	నిరుడు	నిరుడు	NOUN	_	_	5	obl:tmod	_	Gloss=last.year
 2	ఆ	ఆ	DET	_	PronType=Dem	3	det	_	Gloss=that
-3	కుర్రాడు	కుర్రాడు	NOUN	_	Gender=Masc	5	csubj	_	Gloss=boy
+3	కుర్రాడు	కుర్రాడు	NOUN	_	Gender=Masc	5	nsubj	_	Gloss=boy
 4	వచ్చి	రా 	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv	5	advmod	_	Gloss=come
 5	అడిగినప్పుడు	అడుగు	VERB	_	_	8	advcl	_	Gloss=ask.when
 6	పెళ్ళి	పెళ్లి	NOUN	_	_	7	nmod	_	Gloss=marriage
