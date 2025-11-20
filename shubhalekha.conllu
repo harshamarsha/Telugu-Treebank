@@ -1,0 +1,328 @@
+# sent_id = p2__1
+# text = పాత ఊళ్ళో ఉన్న ఆఫీసుకెళ్ళే సన్నాహంలో శాస్త్రి రిక్షావానికోసం గుమ్మంలో నిలబడి ఉన్నాడు .
+# text_en = Shastri was standing at the doorway waiting for a rickshaw, preparing to go to his office in the old town.
+1	పాత	పాత	ADJ	_	_	2	amod	_	Gloss=old
+2	ఊళ్ళో	ఊరు	NOUN	_	Case=Loc	3	obl	_	Gloss=city
+3	ఉన్న	ఉన్న	ADV	_	Tense=Past|VerbForm=Part	4	acl	_	Gloss=was
+4	ఆఫీసుకెళ్ళే	ఆఫీసుకెళ్ళే	NOUN	_	Case=Dat|VerbForm=Conv	5	acl	_	Gloss=going.to.office
+5	సన్నాహంలో	సన్నాహం	NOUN	_	Case=Loc	10	obl	_	Gloss=in.preparation
+6	శాస్త్రి	శాస్త్రి	PROPN	_	_	10	nsubj	_	Gloss=Shashtri
+7	రిక్షావానికోసం	రిక్షావానికోసం	NOUN	_	Case=Abl|Gender=Masc	9	obl	_	Gloss=rickshaw.guy
+8	గుమ్మంలో	గుమ్మం	NOUN	_	Case=Loc	9	obl	_	Gloss=Doorway
+9	నిలబడి	నిలబడు	VERB	_	VerbForm=Conv	10	advcl	_	Gloss=stand
+10	ఉన్నాడు	ఉండు	VERB	_	Gender=Masc|Mood=Ind|Tense=Pres	0	root	_	Gloss=be
+11	.	.	PUNCT	_	_	10	punct	_	_
+
+# sent_id = p2__2
+# text = ఆఫీసులో తాగేందుకు మరచెంబుతో మంచినీళ్ళు తెచ్చి గుమ్మంలో పెట్టింది సత్యవతమ్మ .
+# text_en = Satyavathamma brought fresh water in a jug to drink in the office and placed it on the doorstep.
+1	ఆఫీసులో	ఆఫీసు	NOUN	_	Case=Loc	2	obl:lmod	_	Gloss=in office
+2	తాగేందుకు	తాగు	VERB	_	Case=Ben	5	advcl	_	Gloss=for drinking
+3	మరచెంబుతో	మరచెంబు	NOUN	_	Case=Ins	5	obl	_	Gloss=with jug
+4	మంచినీళ్ళు	మంచినీరు	NOUN	_	_	5	obj	_	Gloss=drinking-water
+5	తెచ్చి	తె	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv	7	advcl	_	Gloss=(having) brought
+6	గుమ్మంలో	గుమ్మం	NOUN	_	Case=Loc	7	obl:lmod	_	Gloss=in Village
+7	పెట్టింది	పెట్టు	VERB	_	Aspect=Perf|Gender=Fem|Tense=Past|VerbForm=Fin	0	root	_	_
+8	సత్యవతమ్మ	సత్యవతమ్మ	PROPN	_	_	7	nsubj	_	Gloss=Satyavathamma
+9	.	.	PUNCT	_	_	8	punct	_	_
+
+# sent_id = p2__3
+# text = మంచి ఆర్టు పేపరు మీద అందంగా , నిరాడంబరంగా ముద్రించిన వివాహాహ్వానం .
+# text_en = A beautifully and modestly printed wedding invitation on good art paper.
+1	మంచి	మంచి	ADJ	_	_	3	amod	_	Gloss=good
+2	ఆర్టు	ఆర్టు	ADJ	_	_	3	amod	_	Gloss=Art|Translit=artu
+3	పేపరు	పేపరు	NOUN	_	_	4	nmod	_	Gloss=Paper
+4	మీద	మీద	ADP	_	_	8	obl	_	Gloss=on
+5	అందంగా	అందం	ADV	_	Degree=Pos	8	advmod	_	Gloss=beautifully
+6	,	,	PUNCT	_	_	7	punct	_	_
+7	నిరాడంబరంగా	నిరాడంబరం	ADV	_	Degree=Pos	8	advmod	_	Gloss=modestly
+8	ముద్రించిన	ముద్రించు	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Part	9	acl	_	Gloss=printed
+9	వివాహాహ్వానం	వివాహాహ్వానం	NOUN	_	_	0	root	_	Gloss=Wedding.invite
+10	.	.	PUNCT	_	_	9	punct	_	_
+
+# sent_id = p2__4
+# text = కవరు అంచులకు రాసిన పసుపు మరకలను బట్టి అనుకోవలసిందే గాని , ఆ పత్రికను చూస్తే అదో వివాహాహ్వానం అనిపించదు .
+# text_en = Judging by the yellow stains on the edges of the envelope, the letter doesn't look like a wedding invitation.
+1	కవరు	కవరు	NOUN	_	_	2	nmod	_	Gloss=cover
+2	అంచులకు	అంచు	NOUN	_	Case=Dat|Number=Plur	3	obl	_	Gloss=on edges
+3	రాసిన	రాయి	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Part	5	acl	_	Gloss=rubbed
+4	పసుపు	పసుపు	ADJ	_	_	5	amod	_	Gloss=yellow
+5	మరకలను	మరక	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	6	obj	_	Gloss=stains
+6	బట్టి	పట్టి	ADP	_	_	7	obl	_	Gloss=Because of
+7	అనుకోవలసిందే	అనుకో	VERB	_	Mood=Nec|PronType=Emp|VerbForm=Part	15	advcl	_	Gloss=must be thought (indeed)
+8	గాని	కానీ	CCONJ	_	_	7	mark	_	Gloss=tough
+9	,	,	PUNCT	_	_	15	punct	_	_
+10	ఆ	ఆ	DET	_	Definite=Def	11	det	_	Gloss=that
+11	పత్రికను	పత్రిక	NOUN	_	Case=Acc	12	obl	_	Gloss=letter
+12	చూస్తే	చూడు	VERB	_	Mood=Cnd	15	advcl	_	Gloss=when seen
+13	అదో	అది	DET	_	Case=Cmp|Definite=Def|PronType=Dem	14	det	_	Gloss=that
+14	వివాహాహ్వానం	వివాహాహ్వానం	NOUN	_	_	15	nmod	_	Gloss=Wedding Invite
+15	అనిపించదు	అనిపించు	VERB	_	Mood=Ind|Polarity=Neg|Tense=Pres	0	root	_	Gloss=seems not
+16	.	.	PUNCT	_	_	15	punct	_	_
+
+# sent_id = p2__5
+# text = ఆఫీసుకి ప్రయాణమై గుమ్మంలో నిలబడ్డ భర్త అశీర్వచనాన్నెత్తుకోడం వినిపించి , సత్యవతమ్మ చేతిలో పని వదలి సావిట్లోకి వచ్చింది .
+# text_en = Upon hearing (her) husband standing at the door chanting a prayer before he set off for the office, Satyavathamma left the work at hand and entered the house.
+1	ఆఫీసుకి	ఆఫీసు	NOUN	_	_	2	obl	_	Gloss=Office
+2	ప్రయాణమై	ప్రయాణం	VERB	_	Aspect=Imp|Tense=Past|VerbForm=Part	5	acl	_	Gloss=having.begun
+3	గుమ్మంలో	గుమ్మం	NOUN	_	Case=Loc	4	obl	_	Gloss=Doorway
+4	నిలబడ్డ	నిలబడు	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Part	5	acl	_	Gloss=stood
+5	భర్త	భర్త	NOUN	_	Gender=Masc	6	nmod	_	Gloss=Husband
+6	అశీర్వచనాన్నెత్తుకోడం	అశీర్వచనాన్నెత్తుకో	NOUN	_	VerbForm=Vnoun	7	obj	_	Gloss=taking.blessings
+7	వినిపించి	విను	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Pass	14	advcl	_	Gloss=having.heard
+8	,	,	PUNCT	_	_	14	punct	_	_
+9	సత్యవతమ్మ	సత్యవతమ్మ	PROPN	_	_	14	nsubj	_	Gloss=Satyavathamma
+10	చేతిలో	చెయ్యి	NOUN	_	Case=Loc	12	obl	_	Gloss=at.hand
+11	పని	పని	NOUN	_	_	10	obl	_	Gloss=work
+12	వదలి	వదులు	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv	14	advcl	_	Gloss=having.left
+13	సావిట్లోకి	చావడి	NOUN	_	Case=Ill	14	obl	_	Gloss=into.Courtyard
+14	వచ్చింది	రా	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Gloss=come
+15	.	.	PUNCT	_	_	14	punct	_	_
+
+# sent_id = p2__6
+# text = ఆమెని చూసి శాస్త్రి తన పనికి తానే నవ్వేడు .
+# text_en = Seeing her, Shashtri laughed at his own work.
+1	ఆమెని	ఆమె	PRON	_	Case=Acc	2	obl	_	Gloss=her
+2	చూసి	చూడు	VERB	_	VerbForm=Conv	7	advcl	_	Gloss=having.seen
+3	శాస్త్రి	శాస్త్రి	PROPN	_	_	7	nsubj	_	Gloss=Shashtri
+4	తన	అతను	PRON	_	Gender=Masc|Person=3|Poss=Yes|PronType=Prs	5	nmod:poss	_	Gloss=his
+5	పనికి	పని	NOUN	_	Case=Dat	7	obl	_	Gloss=work.to
+6	తానే	తాను	PRON	_	PronType=Emp|Reflex=Yes	7	nmod	_	Gloss=himself
+7	నవ్వేడు	నవ్వు	VERB	_	Aspect=Perf|Gender=Masc|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Gloss=laugh
+8	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = p2__8
+# text = శాస్త్రి ముఖం నుంచి నవ్వు హఠాత్తుగా మాయమయింది .
+# text_en = The smile suddenly disappeared from Shastri's face.
+1	శాస్త్రి	శాస్త్రి	NOUN	_	_	2	nmod:poss	_	Gloss=Shashtri
+2	ముఖం	ముఖం	NOUN	_	_	6	advcl	_	Gloss=face
+3	నుంచి	నుంచి	ADP	_	Case=Abl	2	case	_	Gloss=from
+4	నవ్వు	నవ్వు	NOUN	_	_	6	nsubj	_	Gloss=laughter
+5	హఠాత్తుగా	హఠాత్తు	ADV	_	_	6	advmod	_	Gloss=suddenly
+6	మాయమయింది	మాయం	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Tense=Past|VerbForm=Part	0	root	_	Gloss=disappear
+7	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = p2__9
+# text = ఆ స్థితికి కారణం ఆ శుభలేఖే అయిఉంటుంది  అని తోచలేదు .
+# text_en = It didn't occur to (someone) that the reason for that situation was that Wedding Invite.
+1	ఆ	ఆ	DET	_	PronType=Dem	2	det	_	Gloss=that
+2	స్థితికి	స్థితి	NOUN	_	Case=Dat	6	obl	_	Gloss=situtation
+3	కారణం	కారణం	NOUN	_	_	6	obj	_	Gloss=reason
+4	ఆ	ఆ	DET	_	PronType=Dem	5	det	_	Gloss=that
+5	శుభలేఖే	శుభలేఖ	NOUN	_	PronType=Emp	6	advcl	_	Gloss=Wedding.invite
+6	అయిఉంటుంది 	అయిఉంటుంది	VERB	_	_	8	ccomp	_	Gloss=is.perhaps
+7	అని	అని	SCONJ	_	_	6	mark	_	Gloss=that
+8	తోచలేదు	తోచు	VERB	_	Aspect=Perf|Polarity=Neg|Tense=Past|VerbForm=Fin	0	root	_	Gloss=did.not.occur.to
+9	.	.	PUNCT	_	_	8	punct	_	_
+
+# sent_id = p2__10
+# text = ఈ మధ్య వినిపించే మరణాల అన్నిటికీ గుండెపోటే కారణం అని వింటోంది ఏమో .
+# text_en = She is hearing that heart attacks are the cause of all the deaths lately.
+1	ఈ	ఈ	DET	_	PronType=Dem	2	det	_	Gloss=these
+2	మధ్య	మధ్య	ADJ	_	_	3	advmod	_	Gloss=lately
+3	వినిపించే	వినిపించు	VERB	_	Aspect=Imp|VerbForm=Part	4	acl	_	Gloss=heard
+4	మరణాల	మరణం	NOUN	_	Case=Gen|Number=Plur	5	nmod	_	Gloss=deaths
+5	అన్నిటికీ	అన్నిటికీ	NOUN	_	Case=Dat	7	obl	_	Gloss=all.of
+6	గుండెపోటే	గుండెపోటు	NOUN	_	Case=Acc|PronType=Emp	7	nsubj	_	Gloss=heart.stroke
+7	కారణం	కారణం	NOUN	_	_	9	ccomp	_	Gloss=reason
+8	అని	అని	PART	_	_	7	mark	_	Gloss=that
+9	వింటోంది	విను	VERB	_	Aspect=Prog|Gender=Fem|Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=hearing
+10	ఏమో	ఏమో	PART	_	_	9	advmod	_	Gloss=maybe
+11	.	.	PUNCT	_	_	9	punct	_	_
+
+# sent_id = p2__11
+# text = ఆయన కళ్ళల్లో నీరు తిరుగుతున్నట్టు అనిపించి సత్యవతమ్మ మరింత కంగారు పడింది , బేజారెత్తిపోయింది .
+# text_en = Satyavathamma felt tears welling up in his eyes, and she became even more worried and concerned.
+1	ఆయన	ఆయన	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nmod:poss	_	Gloss=he
+2	కళ్ళల్లో	కన్ను	NOUN	_	Case=Loc|Number=Plur	4	obl	_	Gloss=eyes
+3	నీరు	నీరు	NOUN	_	_	4	nsubj	_	Gloss=water
+4	తిరుగుతున్నట్టు	తిరుగు	VERB	_	Aspect=Prog|Case=Equ|Tense=Pres	5	ccomp	_	Gloss=stirring.as.if
+5	అనిపించి	అనిపించు	VERB	_	Tense=Past|VerbForm=Conv	9	advcl	_	Gloss=appear
+6	సత్యవతమ్మ	సత్యవతమ్మ	PROPN	_	_	9	nsubj	_	Gloss=Satyavatamma
+7	మరింత	మరింత	ADJ	_	_	8	amod	_	Gloss=more
+8	కంగారు	కంగారు	NOUN	_	_	9	advcl	_	Gloss=worry
+9	పడింది	పడు	VERB	_	Aspect=Perf|Gender=Fem|Tense=Past|VerbForm=Fin	0	root	_	Gloss=feel
+10	,	,	PUNCT	_	_	9	punct	_	_
+11	బేజారెత్తిపోయింది	బేజారెత్తు	VERB	_	Aspect=Perf|Gender=Fem|Person=3|Tense=Past	9	conj	_	Gloss=worry
+12	.	.	PUNCT	_	_	9	punct	_	_
+
+# sent_id = p2__12
+# text = సమాధానం కోసం ఆగకుండానే పక్క వాటా వారిని పిలిచింది .
+# text_en = Not even waiting for an answer, she called the people at the next door.
+1	సమాధానం	సమాధానం	NOUN	_	_	3	obj	_	Gloss=Answer
+2	కోసం	కోసం	ADP	_	_	1	case	_	Gloss=for
+3	ఆగకుండానే	ఆగు	VERB	_	Polarity=Neg|PronType=Emp	7	advcl:relcl	_	Gloss=not.stopping
+4	పక్క	పక్క	ADJ	_	_	5	amod	_	Gloss=next
+5	వాటా	వాటా	NOUN	_	_	6	acl	_	Gloss=portion
+6	వారిని	వారు	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	7	obj	_	Gloss=they
+7	పిలిచింది	పిలువు	VERB	_	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Gloss=call
+8	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = p2__13
+# text = పక్క వాటా వాళ్ళూ , వాళ్ళతో వీధిలోని వాళ్ళూ పేటలో వాళ్ళూ ఉరకలేస్తూ వస్తున్నట్లే అనిపించింది .
+# text_en = It seemed as if the people next door, the people on the street, and the people in the village were all approaching hurriedly.
+1	పక్క	పక్క	ADJ	_	_	2	amod	_	Gloss=next
+2	వాటా	వాటా	NOUN	_	_	3	obl	_	Gloss=portion
+3	వాళ్ళూ	వాళ్ళూ	PRON	_	Deixis=Remt|Number=Plur|Person=3|PronType=Dem	7	conj	_	Gloss=they
+4	,	,	PUNCT	_	_	5	punct	_	_
+5	వాళ్ళతో	వాళ్ళూ	PRON	_	Case=Com|Deixis=Remt|Number=Plur|Person=3|PronType=Dem	7	obl	_	Gloss=them.with
+6	వీధిలోని	వీధి	NOUN	_	Case=Loc	7	obl	_	Gloss=street.in
+7	వాళ్ళూ	వాళ్ళూ	PRON	_	Deixis=Remt|Number=Plur|Person=3|PronType=Dem	9	conj	_	Gloss=they
+8	పేటలో	పేట	ADJ	_	Case=Loc	9	amod	_	Gloss=village.in
+9	వాళ్ళూ	వాళ్ళూ	PRON	_	Deixis=Remt|Number=Plur|Person=3|PronType=Dem	11	nsubj	_	Gloss=they
+10	ఉరకలేస్తూ	ఉరకలు	ADV	_	Aspect=Prog|Tense=Pres|VerbForm=Conv	11	advmod	_	Gloss=hurrying
+11	వస్తున్నట్లే	రా	VERB	_	Case=Equ|PronType=Emp	12	ccomp	_	Gloss=coming.as.if
+12	అనిపించింది	అనిపించు	VERB	_	Aspect=Perf|Gender=Neut|Tense=Past	0	root	_	Gloss=feel
+13	.	.	PUNCT	_	_	12	punct	_	_
+
+# sent_id = p2__14
+# text = " ఇంకా ఏమైనా ఉందా ? " అప్పుడే పక్క వాటాలోంచి కృష్ణవేణమ్మ పలుకుతూంది .
+# text_en = "That's the worst!" said Krushnamma right then, from the next door.
+1	"	"	PUNCT	_	_	4	punct	_	_
+2	ఇంకా	ఇంకా	ADJ	_	_	3	amod	_	Gloss=more
+3	ఏమైనా	ఏమైనా	DET	_	_	4	det	_	Gloss=something
+4	ఉందా	ఉండు	VERB	_	Mood=Int	11	ccomp	_	Gloss=be
+5	?	?	PUNCT	_	_	4	punct	_	_
+6	"	"	PUNCT	_	_	4	punct	_	_
+7	అప్పుడే	అప్పుడు	ADP	_	PronType=Dem	9	obl:tmod	_	Gloss=then
+8	పక్క	పక్క	ADJ	_	_	9	amod	_	Gloss=next
+9	వాటాలోంచి	వాటా	NOUN	_	Case=Abl	11	obl	_	Gloss=portion
+10	కృష్ణవేణమ్మ	కృష్ణవేణమ్మ	PROPN	_	_	11	nsubj	_	Gloss=Krushnavenamma
+11	పలుకుతూంది	పలుకు	VERB	_	Aspect=Prog|Gender=Fem|Number=Sing|Person=3|Tense=Pres	0	root	_	Gloss=say
+12	.	.	PUNCT	_	_	11	punct	_	_
+
+# sent_id = p2__15
+# text = నాలుగు ఏళ్ల పిల్ల ఏదో మంకుతనం చేస్తూంది కాబోలు కోప్పడుతూంది .
+# text_en = Maybe the four-year-old girl was being mischievous, that's why she was getting angry.
+1	నాలుగు	నాలుగు	ADJ	_	NumType=Card	2	nummod	_	Gloss=four
+2	ఏళ్ల	ఏళ్లు	ADJ	_	Number=Plur	3	amod	_	Gloss=year
+3	పిల్ల	పిల్ల	NOUN	_	_	6	nsubj	_	Gloss=girl
+4	ఏదో	ఏదో	DET	_	_	5	det	_	Gloss=some
+5	మంకుతనం	మంకుతనం	NOUN	_	_	6	obj	_	Gloss=mischief
+6	చేస్తూంది	చేయు	VERB	_	Aspect=Prog|Gender=Fem|Tense=Pres|VerbForm=Fin	8	advcl	_	_
+7	కాబోలు	కాబోలు	ADV	_	_	6	advmod	_	Gloss=maybe
+8	కోప్పడుతూంది	కోప్పడు	VERB	_	Aspect=Prog|Gender=Fem|Tense=Pres	0	root	_	Gloss=get.angry
+9	.	.	PUNCT	_	_	8	punct	_	_
+
+# sent_id = p2__16
+# text = ఏదీ , ఇప్పుడే వాడిని పంపించి విస్తట్లో పెట్టుకున్నా , బాబయ్యగారు ఇంకా వెళ్ళినట్లులేదే !
+# text_en = Let's see, I just sent him away and put him in my space, it looks like Uncle hasn't left yet!
+1	ఏదీ	ఏది	PRON	_	Mood=Int|PronType=Int	7	discourse	_	Gloss=which
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	ఇప్పుడే	ఇప్పుడు	ADP	_	PronType=Dem	5	obl	_	Gloss=now.itself
+4	వాడిని	వాడు	PRON	_	Case=Acc|Deixis=Remt|Gender=Masc|Number=Sing|Person=3	5	obj	_	Gloss=he
+5	పంపించి	పంపు	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv	7	advcl	_	Gloss=send
+6	విస్తట్లో	విస్తట	NOUN	_	Case=Loc	7	obl	_	Gloss=area (?)
+7	పెట్టుకున్నా	పెట్టు	VERB	_	Aspect=Perf|Reflex=Yes|Tense=Past|VerbForm=Fin	11	advmod	_	Gloss=keep
+8	,	,	PUNCT	_	_	7	punct	_	_
+9	బాబయ్యగారు	బాబయ్యగారు	NOUN	_	Polite=Form	11	nsubj	_	Gloss=uncle
+10	ఇంకా	ఇంకా	ADJ	_	PronType=Dem	11	amod	_	Gloss=more
+11	వెళ్ళినట్లులేదే	వేళ్లు	VERB	_	Aspect=Perf|Case=Equ|Mood=Adm|Polarity=Neg|VerbForm=Part	0	root	_	Gloss=go
+12	!	!	PUNCT	_	_	11	punct	_	_
+
+# sent_id = p2__18
+# text = పెళ్ళికొడుకు అసదుల్లా తన మగడు పని చేస్తున్న కంపెనీ యజమాని మనమడు .
+# text_en = The groom, Asadullah, is the grandson of the owner of the company where her husband works.
+1	పెళ్ళికొడుకు	పెళ్ళికొడుకు	NOUN	_	Gender=Masc	2	nmod	_	Gloss=Bridegroom
+2	అసదుల్లా	అసదుల్లా	PROPN	_	_	9	nsubj	_	Gloss=Asadullah
+3	తన	తన	PRON	_	Poss=Yes|PronType=Prs	4	nmod:poss	_	Gloss=her
+4	మగడు	మగడు	NOUN	_	Gender=Masc	6	advmod	_	Gloss=husband
+5	పని	పని	NOUN	_	_	6	nmod	_	Gloss=work
+6	చేస్తున్న	చేయు	VERB	_	Aspect=Hab|VerbForm=Part	7	acl	_	Gloss=do
+7	కంపెనీ	కంపెనీ	NOUN	_	_	8	nmod:poss	_	Gloss=company
+8	యజమాని	యజమాని	NOUN	_	_	9	nmod:poss	_	Gloss=owner
+9	మనమడు	మనమడు	NOUN	_	Gender=Masc	0	root	_	Gloss=grandson
+10	.	.	PUNCT	_	_	9	punct	_	_
+
+# sent_id = p2__19
+# text = అంటే తమ వాళ్లు ఎవ్వరు అంగీకరించలేని పెళ్ళి చేసుకొంటున్నాడు కాబోలు !
+# text_en = It seems like he's getting into a marriage that none of his family would agree to!
+1	అంటే	అంటే	SCONJ	_	_	7	mark	_	Gloss=that.means
+2	తమ	తన	PRON	_	Poss=Yes|PronType=Prs	3	nmod:poss	_	Gloss=his
+3	వాళ్లు	వాళ్లు	PRON	_	Deixis=Remt|Number=Plur	5	nmod	_	Gloss=them
+4	ఎవ్వరు	ఎవ్వరు	DET	_	PronType=Ind	3	det	_	Gloss=anyone
+5	అంగీకరించలేని	అంగీకరించు	ADJ	_	Polarity=Neg|VerbForm=Part	6	acl:relcl	_	Gloss=unacceptable
+6	పెళ్ళి	పెళ్ళి	NOUN	_	_	7	obj	_	Gloss=wedding
+7	చేసుకొంటున్నాడు	చేయు	VERB	_	Aspect=Prog|Gender=Masc|Person=3|Reflex=Yes|Tense=Pres	0	root	_	Gloss=do
+8	కాబోలు	కాబోలు	ADV	_	_	7	advmod	_	Gloss=maybe
+9	!	!	PUNCT	_	_	7	punct	_	_
+
+# sent_id = p2__20
+# text = వాళ్ళ ప్రాణాలు అన్ని ఆ మనవడి మీదే పెట్టుకు బ్రతుకుతున్నారు .
+# text_en = They are living their lives just for their grandson.
+1	వాళ్ళ	వాళ్లు	PRON	_	Deixis=Remt|Poss=Yes|PronType=Prs	2	nmod:poss	_	Gloss=their
+2	ప్రాణాలు	ప్రాణం	NOUN	_	Number=Plur	7	obj	_	Gloss=lives
+3	అన్ని	అన్ని	DET	_	PronType=Tot	2	det	_	Gloss=all
+4	ఆ	ఆ	DET	_	Deixis=Remt|PronType=Dem	5	det	_	Gloss=that
+5	మనవడి	మనవడు	NOUN	_	Case=Gen	7	obl	_	Gloss=grandson
+6	మీదే	మీద	ADP	_	PronType=Emp	5	case	_	Gloss=on
+7	పెట్టుకు	పెట్టు	VERB	_	Aspect=Perf|VerbForm=Conv	8	advcl	_	Gloss=put
+8	బ్రతుకుతున్నారు	బ్రతుకు	VERB	_	Aspect=Prog|Number=Plur|Person=3|Tense=Pres	0	root	_	Gloss=live
+9	.	.	PUNCT	_	_	8	punct	_	_
+
+# sent_id = p2__21
+# text = ఆయనకి తెలిసి , ఆయన ఇష్టం మీదనే ఈ పెళ్ళి జరుగుతూంటే మీకెవరికీ తెలియకుండా ఉంటుందా ?
+# text_en = If he was aware of and in agreement with this marriage, then how come none of you were told about it?
+1	ఆయనకి	ఆయన	PRON	_	Case=Dat|Deixis=Remt|Gender=Masc|Person=3|PronType=Prs	2	nsubj	_	Gloss=him.to
+2	తెలిసి	తెలుసు	VERB	_	Tense=Past|VerbForm=Conv	9	advcl	_	Gloss=having.known
+3	,	,	PUNCT	_	_	9	punct	_	_
+4	ఆయన	ఆయన	PRON	_	Deixis=Remt|Gender=Masc|Person=3|PronType=Prs	5	nmod:poss	_	Gloss=he
+5	ఇష్టం	ఇష్టం	NOUN	_	_	9	obl	_	Gloss=liking
+6	మీదనే	మీద	ADP	_	PronType=Emp	5	case	_	Gloss=on
+7	ఈ	ఈ	DET	_	Deixis=Prox|PronType=Dem	8	det	_	Gloss=this
+8	పెళ్ళి	పెళ్ళి	NOUN	_	_	9	nsubj	_	Gloss=wedding
+9	జరుగుతూంటే	జరుగు	VERB	_	Aspect=Prog|Mood=Cnd	12	advcl:cond	_	Gloss=happen
+10	మీకెవరికీ	మీరు	PRON	_	Case=Dat|Number=Plur|Person=2|PronType=Emp	12	nsubj	_	Gloss=to.any.of.you
+11	తెలియకుండా	తెలుసు	ADV	_	Aspect=Prog|Polarity=Neg	12	advmod	_	Gloss=not.aware
+12	ఉంటుందా	ఉండు	VERB	_	Mood=Int	0	root	_	Gloss=be
+13	?	?	PUNCT	_	_	12	punct	_	_
+
+# sent_id = p2__22
+# text = వరికి ఎంతవరకు తెలుసునో గాని , శుభలేఖలోని అసలు విషయం భార్యకు తెలియదని ఆమె ప్రశ్నను బట్టి శాస్త్రికి అర్థం అయింది .
+# text_en = Regardless of how much they knew, Shastri understood that his wife did not know the important part of the wedding invite, judging from her question.
+1	వరికి	వారు	PRON	_	Case=Dat|Deixis=Remt|Person=3|PronType=Prs	3	nsubj	_	Gloss=anyone
+2	ఎంతవరకు	ఎంత	ADJ	_	Case=Dat|PronType=Int	3	obl	_	Gloss=to.what.extent
+3	తెలుసునో	తెలుసు	VERB	_	Mood=Adm	16	advcl:emph	_	Gloss=who.knows
+4	గాని	కానీ	SCONJ	_	_	16	cc	_	Gloss=but
+5	,	,	PUNCT	_	_	16	punct	_	_
+6	శుభలేఖలోని	శుభలేఖ	NOUN	_	Case=Loc	8	obl	_	Gloss=wedding.invite
+7	అసలు	అసలు	ADJ	_	_	8	amod	_	Gloss=important
+8	విషయం	విషయం	NOUN	_	_	10	obl	_	Gloss=matter
+9	భార్యకు	భార్య	NOUN	_	Case=Dat	10	nsubj	_	Gloss=wife
+10	తెలియదని	తెలుసుకొను	VERB	_	Polarity=Neg	16	ccomp	_	Gloss=not.known
+11	ఆమె	ఆమె	PRON	_	Gender=Fem|Person=3|PronType=Prs	12	nmod:poss	_	_
+12	ప్రశ్నను	ప్రశ్న	NOUN	_	Case=Acc	16	obl	_	Gloss=question
+13	బట్టి	పట్టి	ADP	_	_	12	case	_	Gloss=from
+14	శాస్త్రికి	శాస్త్రి	PROPN	_	Case=Dat	16	nsubj	_	Gloss=Shastri
+15	అర్థం	అర్థం	NOUN	_	_	16	obj	_	Gloss=understanding
+16	అయింది	అవ్వు	VERB	_	Aspect=Perf|Gender=Neut|Tense=Past|VerbForm=Fin	0	root	_	Gloss=did
+17	.	.	PUNCT	_	_	16	punct	_	_
+
+# sent_id = p2__23
+# text = మరొక సందర్భంలో అయితే ఆ పేరు చదివినా ఏమీ అనిపించి ఉండేది కాదు .
+# text_en = In a different situation, reading that name wouldn't have meant anything at all.
+1	మరొక	మరొక	DET	_	PronType=Dem	2	det	_	Gloss=another
+2	సందర్భంలో	సందర్భం	NOUN	_	Case=Loc	3	obl	_	Gloss=situation
+3	అయితే	అవ్వు	VERB	_	Mood=Cnd	10	advcl:cond	_	Gloss=be.if
+4	ఆ	ఆ	DET	_	PronType=Dem	5	det	_	Gloss=that
+5	పేరు	పేరు	NOUN	_	_	6	obj	_	Gloss=name
+6	చదివినా	చదువు	VERB	_	Mood=Cnd	8	advcl:cond	_	Gloss=read.if
+7	ఏమీ	ఏమీ	DET	_	PronType=Ind	8	det	_	Gloss=anything
+8	అనిపించి	అనిపించు	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv	9	advcl	_	Gloss=feel
+9	ఉండేది	ఉండు	VERB	_	Aspect=Perf|Tense=Fut|VerbForm=Fin	10	compound	_	Gloss=be
+10	కాదు	కాదు	VERB	_	Polarity=Neg	0	root	_	Gloss=not
+11	.	.	PUNCT	_	_	10	punct	_	_
+
+# sent_id = p2__24
+# text = నిరుడు ఆ కుర్రాడు వచ్చి అడిగినప్పుడు పెళ్ళి చేసేసినా బాగుండిపోను !
+# text_en = It would have been better if we had agreed to that boy who asked us last year for her marriage!
+1	నిరుడు	నిరుడు	NOUN	_	_	5	obl:tmod	_	Gloss=last.year
+2	ఆ	ఆ	DET	_	PronType=Dem	3	det	_	Gloss=that
+3	కుర్రాడు	కుర్రాడు	NOUN	_	Gender=Masc	5	nsubj	_	Gloss=boy
+4	వచ్చి	రా 	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv	5	advmod	_	Gloss=come
+5	అడిగినప్పుడు	అడుగు	VERB	_	_	8	advcl	_	Gloss=ask.when
+6	పెళ్ళి	పెళ్లి	NOUN	_	_	7	nmod	_	Gloss=marriage
+7	చేసేసినా	చేయు	VERB	_	Mood=Cnd	8	advcl:cond	_	Gloss=do.if
+8	బాగుండిపోను	బాగుండు	VERB	_	Mood=Cnd|Tense=Past|VerbForm=Conv	0	root	_	Gloss=would.have.been.good
+9	!	!	PUNCT	_	_	8	punct	_	_
+

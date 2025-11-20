@@ -1,0 +1,119 @@
+# sent_id = p1__1
+# text = ఆ తరువాత ప్రపంచ సీరీస్ క్రికెట్‌లో ప్రవేశించి అక్కడ ప్రధాన పాత్ర వహించాడు .
+# text_en = He then entered World Series Cricket and played a major role there.
+1	ఆ	ఆ	DET	_	PronType=Dem	2	det	_	Gloss=that
+2	తరువాత	తరువాత	ADP	_	_	6	advmod	_	Gloss=after
+3	ప్రపంచ	ప్రపంచ	ADJ	_	_	4	flat	_	Gloss=world
+4	సీరీస్	సీరీస్	ADJ	_	_	5	amod	_	Gloss=series
+5	క్రికెట్‌లో	క్రికెట్‌	NOUN	_	Case=Loc	6	obl	_	Gloss=cricket
+6	ప్రవేశించి	ప్రవేశించు	VERB	_	VerbForm=Part	10	advcl	_	Gloss=having.entered
+7	అక్కడ	అక్కడ	ADV	_	Case=Loc|PronType=Dem	10	advmod	_	Gloss=there
+8	ప్రధాన	ప్రధాన	ADJ	_	_	9	amod	_	Gloss=significant
+9	పాత్ర	పాత్ర	NOUN	_	_	10	obj	_	Gloss=position
+10	వహించాడు	వహించు	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Person=3|Tense=Past	0	root	_	Gloss=took
+11	.	.	PUNCT	_	_	10	punct	_	_
+
+# sent_id = p1__2
+# text = విశ్వా గారు మీరు అప్లోడ్ చేసిన బొమ్మ చూసాను .
+# text_en = Vishwa, I saw the picture you uploaded.
+1	విశ్వా	విశ్వా	PROPN	_	Case=Voc	7	case:voc	_	Gloss=Vishva
+2	గారు	గారు	PART	_	Polite=Form	1	flat	_	Gloss=HONORIFIC
+3	మీరు	నువ్వు	PRON	_	Number=Sing|Person=2|Polite=Form	5	amod	_	Gloss=you
+4	అప్లోడ్	అప్లోడ్	VERB	_	_	5	advmod	_	Gloss=upload
+5	చేసిన	చేయు	VERB	_	Tense=Past|VerbForm=Part|Voice=Act	6	acl	_	Gloss=do
+6	బొమ్మ	బొమ్మ	NOUN	_	_	7	obj	_	Gloss=picture
+7	చూసాను	చూడు	VERB	_	Aspect=Perf|Person=1|VerbForm=Fin	0	root	_	Gloss=saw
+8	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = p1__3
+# text = కాని ఆయన పాశ్చాత్య సాహిత్యం పట్ల గౌరవం కలిగి ఉండేవాడు .
+# text_en = But he had respect for Western literature.
+1	కాని	కాని	CCONJ	_	_	8	cc	_	Gloss=but
+2	ఆయన	ఆయన	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	8	nsubj	_	Gloss=he
+3	పాశ్చాత్య	పాశ్చాత్య	ADJ	_	_	4	amod	_	Gloss=western
+4	సాహిత్యం	సాహిత్యం	NOUN	_	Case=Acc	6	nmod	_	Gloss=literature
+5	పట్ల	పట్ల	ADP	_	_	4	case	_	Gloss=towards
+6	గౌరవం	గౌరవం	NOUN	_	_	8	obj	_	Gloss=respect
+7	కలిగి	కలిగి	VERB	_	VerbForm=Inf	6	xcomp	_	Gloss=have
+8	ఉండేవాడు	ఉండు	VERB	_	Aspect=Imp|Case=Nom|Tense=Past|VerbForm=Fin	0	root	_	Gloss=be
+9	.	.	PUNCT	_	_	8	punct	_	_
+
+# sent_id = p1__4
+# text = దాదాసాహెబ్ ఫాల్కే అవార్డు పొందిన తొలి దక్షిణ భారతీయుడు .
+# text_en = He was the first South Indian to receive the Dadasaheb Phalke Award.
+1	దాదాసాహెబ్	దాదాసాహెబ్	PROPN	_	_	3	nmod	_	Gloss=Dadasaheb
+2	ఫాల్కే	ఫాల్కే	PROPN	_	_	1	compound	_	Gloss=Phalke
+3	అవార్డు	అవార్డు	NOUN	_	_	7	obj	_	Gloss=Award
+4	పొందిన	పొందు	VERB	_	Aspect=Perf|VerbForm=Part	3	acl	_	Gloss=obtain
+5	తొలి	తొలి	ADJ	_	_	7	amod	_	Gloss=first
+6	దక్షిణ	దక్షిణం	ADJ	_	_	7	amod	_	Gloss=south
+7	భారతీయుడు	భారతం	NOUN	_	Animacy=Hum|Gender=Masc|Mood=Ind	0	root	_	Gloss=indian
+8	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = p1__5
+# text = ఎందుకంటే ఏనుగు అనే జంతువు గురించిన వ్యాసం తెలుగు వికీలో ఉంది .
+# text_en = Because the article about the animal called elephant is in the Telugu Wiki.
+1	ఎందుకంటే	ఎందుకంటే	SCONJ	_	_	9	mark	_	Gloss=Because
+2	ఏనుగు	ఏనుగు	NOUN	_	_	4	nmod	_	Gloss=Elephant
+3	అనే	అను	ADV	_	_	4	acl	_	Gloss=named
+4	జంతువు	జంతువు	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	6	nmod	_	_
+5	గురించిన	గురించిన	ADP	_	_	6	obl	_	Gloss=about
+6	వ్యాసం	వ్యాసం	NOUN	_	_	9	nsubj	_	Gloss=article
+7	తెలుగు	తెలుగు	PROPN	_	Gender=Neut	8	amod	_	Gloss=telugu
+8	వికీలో	వికీ	NOUN	_	_	9	obl	_	Gloss=Wiki
+9	ఉంది	ఉండు	VERB	_	Aspect=Imp|Mood=Ind|VerbForm=Fin	0	root	_	Gloss=be
+10	.	.	PUNCT	_	_	9	punct	_	_
+
+# sent_id = p1__6
+# text = ఇవి తాపేశ్వరం మడత కాజాల వంటి కాజాలు కావు .
+# text_en = These are not the kajas like the Tapeshwaram madata kajas.
+1	ఇవి	_	DET	_	_	_	_	_	_
+2	తాపేశ్వరం	_	PROPN	_	_	_	_	_	_
+3	మడత	_	NOUN	_	_	_	_	_	_
+4	కాజాల	_	NOUN	_	_	_	_	_	_
+5	వంటి	_	ADP	_	_	_	_	_	_
+6	కాజాలు	_	NOUN	_	_	_	_	_	_
+7	కావు	_	VERB	_	_	0	root	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = p1__7
+# text = మాయాబజార్ చిత్రంతో మొదలుపెట్టి చాలా చిత్రాలలో కెవి రెడ్డి చేతికింద పనిచేశాడు .
+# text_en = Starting with the film Mayabazaar, he worked under KV Reddy in many films.
+1	మాయాబజార్	మాయాబజార్	NOUN	_	_	3	amod	_	Gloss=Mayabazar
+2	చిత్రంతో	చిత్రం	NOUN	_	Case=Ins	3	obl	_	Gloss=Film
+3	మొదలుపెట్టి	మొదలుపెట్టు	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv	9	advcl	_	Gloss=having.begun
+4	చాలా	చాలా	ADJ	_	_	5	amod	_	Gloss=many
+5	చిత్రాలలో	చిత్రం	NUM	_	Case=Loc|Number=Plur	9	obl	_	Gloss=films
+6	కెవి	కెవి	PROPN	_	_	9	nmod	_	Gloss=K.V.
+7	రెడ్డి	రెడ్డి	PROPN	_	_	6	compound	_	Gloss=Reddy
+8	చేతికింద	చేతికింద	NOUN	_	Case=Loc	9	obl	_	Gloss=hand.under
+9	పనిచేశాడు	పనిచేయి	VERB	_	Aspect=Perf|Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	Gloss=work
+10	.	.	PUNCT	_	_	9	punct	_	_
+
+# sent_id = p1__9
+# text = గ్రామంలో ప్రధాన పంటలు వరి , పత్తి , మిరప , కూరగాయలు .
+# text_en = The main crops in the village are rice, cotton, chillies, and vegetables.
+1	గ్రామంలో	గ్రామం	ADP	_	Case=Loc|Gender=Neut|Number=Sing	3	obl	_	Gloss=Village
+2	ప్రధాన	ప్రధాన	ADJ	_	_	3	amod	_	Gloss=prominent
+3	పంటలు	పంట	NOUN	_	Gender=Neut|Number=Plur	0	root	_	Gloss=crops
+4	వరి	వరి	NOUN	_	_	3	parataxis	_	Gloss=rice
+5	,	,	PUNCT	_	_	6	punct	_	_
+6	పత్తి	పత్తి	NOUN	_	_	4	conj	_	Gloss=cotton
+7	,	,	PUNCT	_	_	8	punct	_	_
+8	మిరప	మిరప	NOUN	_	_	6	conj	_	Gloss=chilli
+9	,	,	PUNCT	_	_	10	punct	_	_
+10	కూరగాయలు	కూరగాయ	NOUN	_	Number=Plur	8	conj	_	Gloss=vegetables
+11	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = p1__10
+# text = ఈ కొండపై నుండి దాదాపు విజయవాడ మొత్తం కనిపిస్తుంది .
+# text_en = Almost the whole Vijayawada is seen from this hill.
+1	ఈ	ఈ	DET	_	PronType=Dem	2	det	_	Gloss=this
+2	కొండపై	కొండ	NOUN	_	Case=Loc	3	nmod	_	Gloss=hill
+3	నుండి	నుండి	ADP	_	Case=Abl	7	obl	_	Gloss=from
+4	దాదాపు	దాదాపు	ADJ	_	_	5	amod	_	Gloss=almost
+5	విజయవాడ	విజయవాడ	NOUN	_	_	7	obj	_	Gloss=Vijaywada
+6	మొత్తం	మొత్తం	ADV	_	_	7	advmod	_	Gloss=whole
+7	కనిపిస్తుంది	కనిపించు	VERB	_	Aspect=Hab|Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=see
+8	.	.	PUNCT	_	_	7	punct	_	_
+
